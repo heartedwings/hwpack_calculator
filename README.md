@@ -87,7 +87,6 @@ print(result)  # 5 が表示されます
 
 作者：heartedwings
 
-ホームページ：https://github.com/heartedwings/hwpack_calculator
 
 ---
 このプロジェクトは [MITライセンス](https://opensource.org/licenses/MIT) のもとで公開されています。
